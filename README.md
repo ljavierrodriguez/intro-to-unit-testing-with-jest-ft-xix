@@ -3,13 +3,13 @@
 ### Iniciar proyecto con npm
 
 ```shell
-$ npm init -y
+npm init -y
 ```
 
 ### nstalar Jest en las dependencias de desarrollo
 
 ```shell
-$ npm i jest --save-dev
+npm i jest --save-dev
 ```
 
 ### Modificar el ***package.json*** y modificar la seccion de scripts y agregar jest en el comando "test"
@@ -25,7 +25,7 @@ $ npm i jest --save-dev
 ### Crear la carpeta ***__tests__***
 
 ```shell
-$ mkdir __tests__
+mkdir __tests__
 ```
 
 ### Activar el modo observar de jest
