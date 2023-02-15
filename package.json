@@ -1,0 +1,23 @@
+{
+  "name": "intro-to-unit-testing-with-jest-ft-xix",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ljavierrodriguez/intro-to-unit-testing-with-jest-ft-xix.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ljavierrodriguez/intro-to-unit-testing-with-jest-ft-xix/issues"
+  },
+  "homepage": "https://github.com/ljavierrodriguez/intro-to-unit-testing-with-jest-ft-xix#readme",
+  "devDependencies": {
+    "jest": "^29.4.3"
+  }
+}
